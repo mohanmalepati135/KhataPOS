@@ -1,0 +1,6 @@
+{
+  "name": "KhataPOS",
+  "description": "Billing, stock, and customer credit — all from one counter app for retail stores.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
